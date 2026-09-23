@@ -1306,7 +1306,7 @@
             <div class="footer-grid">
                 <div class="brand-col">
                     <div class="brand">
-                        <i class="fas fa-store-alt"></i>
+                        <em class="fas fa-store-alt"></em>
                         <span>Nexus<span class="accent">Shop</span></span>
                     </div>
                     <p>Modern e‑commerce demo built with care. Quality products, seamless experience.</p>
